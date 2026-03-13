@@ -7,17 +7,9 @@
 • Interested in **Cybersecurity** and **Web Security Research**  
 • Building practical tools while improving problem-solving skills  
 
-### 🔧 Currently Working On
-• Practicing **algorithms and problem solving**  
-• Exploring **web vulnerabilities and security research**  
-• Building **small automation tools and utilities**
-
 ### 🎯 Goals
 • Contribute to **open-source projects**  
 • Develop strong **security and development skills**
-
-### ⚙️ Tech I'm Learning
-**C++ • JavaScript • Node.js • Git • Linux • Web Security**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_sazid_x1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sazid_hussain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr_sazid_x1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sazidxbca@gmail.com) 
