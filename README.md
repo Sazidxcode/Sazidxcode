@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Sazid
 
-<!--
-**Sazidxcode/Sazidxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• BCA student | Developer in progress  
+• Learning C++ and Data Structures  
+• Interested in Cybersecurity and Web Security Research
 
-Here are some ideas to get you started:
+What I'm working on:
+• Strengthening programming fundamentals in C++  
+• Practicing problem solving and algorithms  
+• Exploring web security and vulnerability research  
+• Building small automation tools and utilities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals:
+• Contribute to open-source projects  
+• Develop practical security and development skills  
+• Earn through bug bounty and freelance development  
+
+Tech I'm learning:
+C++ • JavaScript • Node.js • Git • Linux • Web Security
