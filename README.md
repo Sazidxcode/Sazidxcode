@@ -1,17 +1,20 @@
-Hi, I'm Sazid
+# Hi, I'm Sazid
 
-• BCA student | Developer in progress  
-• Learning C++ and Data Structures  
-• Interested in Cybersecurity and Web Security Research
+💻 **BCA Student | Developer in Progress**
 
-What I'm working on:
-• Practicing problem solving and algorithms  
-• Exploring web security and vulnerability research  
-• Building small automation tools and utilities  
+### 👨‍💻 About Me
+• Learning **C++** and **Data Structures**  
+• Interested in **Cybersecurity** and **Web Security Research**  
+• Building practical tools while improving problem-solving skills  
 
-Goals:
-• Contribute to open-source projects  
-• Develop practical security and development skills  
+### 🔧 Currently Working On
+• Practicing **algorithms and problem solving**  
+• Exploring **web vulnerabilities and security research**  
+• Building **small automation tools and utilities**
 
-Tech I'm learning:
-C++ • JavaScript • Node.js • Git • Linux • Web Security
+### 🎯 Goals
+• Contribute to **open-source projects**  
+• Develop strong **security and development skills**
+
+### ⚙️ Tech I'm Learning
+**C++ • JavaScript • Node.js • Git • Linux • Web Security**
