@@ -1,6 +1,23 @@
-# 💫 About Me:
-# Hi, I'm Sazid<br><br>💻 **BCA Student | Developer in Progress**<br><br>### 👨‍💻 About Me<br>• Learning **C++** and **Data Structures**  <br>• Interested in **Cybersecurity** and **Web Security Research**  <br>• Building practical tools while improving problem-solving skills  <br><br>### 🔧 Currently Working On<br>• Practicing **algorithms and problem solving**  <br>• Exploring **web vulnerabilities and security research**  <br>• Building **small automation tools and utilities**<br><br>### 🎯 Goals<br>• Contribute to **open-source projects**  <br>• Develop strong **security and development skills**<br><br>### ⚙️ Tech I'm Learning<br>**C++ • JavaScript • Node.js • Git • Linux • Web Security**
+# Hi, I'm Sazid
 
+💻 **BCA Student | Developer in Progress**
+
+### 👨‍💻 About Me
+• Learning **C++** and **Data Structures**  
+• Interested in **Cybersecurity** and **Web Security Research**  
+• Building practical tools while improving problem-solving skills  
+
+### 🔧 Currently Working On
+• Practicing **algorithms and problem solving**  
+• Exploring **web vulnerabilities and security research**  
+• Building **small automation tools and utilities**
+
+### 🎯 Goals
+• Contribute to **open-source projects**  
+• Develop strong **security and development skills**
+
+### ⚙️ Tech I'm Learning
+**C++ • JavaScript • Node.js • Git • Linux • Web Security**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_sazid_x1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sazid_hussain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr_sazid_x1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sazidxbca@gmail.com) 
